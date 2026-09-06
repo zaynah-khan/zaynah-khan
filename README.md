@@ -1,38 +1,35 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Zaynah%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=45"/>
-</p>
+# Zaynah Khan
 
-<p align="center"><em>BSc Computer Science, University of Exeter — building full-stack and systems-level projects ahead of a 2027–28 placement year.</em></p>
+Computer Science undergraduate at the University of Exeter (BSc, Year in Industry) — building full-stack and systems-level projects ahead of a 2027–28 Software Engineering placement year.
 
-<br>
+---
 
-### Currently building
+**Currently building**
 
-**[Smart Meal Planner](https://github.com/zaynah-khan/smart-meal-planner)** — full-stack recipe manager with weekly meal planning and automatic grocery-list generation.
+[Smart Meal Planner](https://github.com/zaynah-khan/smart-meal-planner) — a full-stack recipe manager with weekly meal planning and automatic grocery-list generation.
 
-**Local AI Assistant** — a fully local, GPU-accelerated assistant (Ollama, IPEX-LLM, Qwen3) with no cloud dependency.
+A fully local, GPU-accelerated AI assistant (Ollama, IPEX-LLM, Qwen3) with no cloud dependency.
 
 Working through Data Structures & Algorithms and Project Euler alongside my degree.
 
-<br>
+---
 
-### Stack
+**Stack**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,sqlite,git,bash,vscode,linux&theme=dark" />
 </p>
 
-<br>
-
-### Stats
+**Stats**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaynah-khan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaynah-khan&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaynah-khan&theme=dark&hide_border=true&background=00000000" height="165" />
 </p>
 
-<br>
+---
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/zaynah-khan-061708321/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
